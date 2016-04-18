@@ -1,0 +1,12 @@
+{
+  "name": "jasmine-xml2html-converter",
+  "version": "0.0.2",
+  "description": "A node module to convert jasmine xml reports to html",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "xmldoc": "~0.3.0"
+  },
+  "scripts": {},
+  "directories": {}
+}
